@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carta>
+    <plato tipo="Arroz">
+        <nombre>Chaulafán</nombre>
+        <descripcion plato="chaulafan">El chaulafan de pollo es la versión ecuatoriana del Arroz frito chino preparado con Arroz, pollo, tocino, cebolla, ajo, pimientos, arvejas, zanahorias, huevos revueltos, pasas, especias y hierbas. Hace algún tiempo publique la receta del Arroz con pollo, y recibí algunos comentarios pidiendo que también compartiera la receta del otro Arroz con pollo ecuatoriano, o sea el chaulafan o Arroz frito de pollo.</descripcion>
+        <precio>10.45€</precio>
+        <icon>pescado</icon>
+        <foto>1</foto>
+    </plato>
+    <plato tipo="Arroz">
+        <nombre>Bandera</nombre>
+        <descripcion plato="Bandera">La bandera es una deliciosa fusión de cuatro platos típicos de la costa ecuatoriana. El ceviche de camarón, de concha, pescado y Arroz con guatita. Se la acompaña con chifl</descripcion>
+        <precio>5.50€</precio>
+        <icon></icon>
+        <foto>2</foto>
+    </plato>
+        <plato tipo="Arroz">
+        <nombre>Guatita</nombre>
+        <descripcion plato="Bandera">La receta básica de la guatita ecuatoriana incluye el mondongo que ha sido muy lavado y limpiado con limón, esta previamente hierve hasta suavizarse, pero se obtiene buen resultado usando olla de presión, luego se guisa en un refrito de cebollas, pimiento y tomates, aliños, etc. al cual se le agregan patatas peladas, agua y pasta o mantequilla de maní o cacahuate, finalmente cilantro o hierbita.</descripcion>
+        <precio>12.45€</precio>
+        <icon>gluten</icon>
+        <foto>6</foto>
+    </plato>
+    <plato tipo="Ceviches">
+        <nombre>Ceviche</nombre>
+        <descripcion plato="Ceviche">Plato de pescado o marisco crudo cortado en trozos pequeños y puestos a marinar en un preparado de adobo de jugo de limón o naranja agria, cebolla picada, sal, pimienta y cilantro</descripcion>
+        <precio>10.45€</precio>
+        <icon>pescado</icon>
+        <foto>3</foto>
+    
+    </plato>
+    <plato tipo="Ceviches">
+        <nombre>Ceviche de Camaron</nombre>
+        <descripcion plato="Ceviche de Camaron">El encebollado es un caldo de pescado que contiene albacora, yuca, tomate, cebolla colorada, cilantro, ají en polvo, comino y otras especias.​ Se acompaña con chifles, que se le añaden al momento de degustarlo. Es común que sea aderezado con gotas de limón verde y con ají.</descripcion>
+        <precio>10.45€</precio>
+        <icon>pescado</icon>
+        <foto>4</foto>
+    
+    </plato>
+    <plato tipo="Ceviches">
+        <nombre>Ceviche Mixto</nombre>
+        <descripcion plato="Ceviche Mixto">El encebollado es un caldo de pescado que contiene albacora, yuca, tomate, cebolla colorada, cilantro, ají en polvo, comino y otras especias.​ Se acompaña con chifles, que se le añaden al momento de degustarlo. Es común que sea aderezado con gotas de limón verde y con ají.</descripcion>
+        <precio>10.45€</precio>
+        <icon>pescado</icon>
+        <foto>5</foto>
+    </plato>    
+    <plato tipo="Carne">
+        <nombre>Hornado</nombre>
+        <descripcion plato="hornado">un plato que contiene carne de cerdo hornado, principalmente es cocinado en leña, acompañado de distintas salsas y vegetales cocidos, como por ejemplo choclo, llapingachos, plátano maduro frito, aguacate, lechuga, tomate y demás ingredientes dependiendo la zona geográfica donde se lo prepare.</descripcion>
+        <precio>10.45€</precio>
+        <icon>picante</icon>
+        <foto>21</foto>
+    
+    </plato>        
+    <plato tipo="Entrantes">
+        <nombre>Nachos con carne</nombre>
+        <descripcion plato="Nachos"></descripcion>
+        <precio>10.45€</precio>
+        <icon>gluten</icon>
+        <foto>15</foto>
+    </plato>
+</carta>
